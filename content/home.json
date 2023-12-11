@@ -4,44 +4,64 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
+      "autoplay": 2000,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z",
-          "mobile_img": "/img/uploads/headphone.webp"
+          "start": "2023-06-01T11:59:12.715Z",
+          "end": "",
+          "mobile_img": "/img/uploads/slide-site-celular-2.png",
+          "img": "/img/uploads/slide-site-1.jpg",
+          "link": ""
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner2.webp",
-          "alt": "Banner sample two",
-          "mobile_img": "/img/uploads/passion.webp"
+          "img": "/img/uploads/slide-banner-site.png",
+          "mobile_img": "/img/uploads/slide-site-celular.jpg"
+        }
+      ],
+      "full_width": true
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/lancamentos.jpg",
+          "alt": "Lançamentos",
+          "link": "https://griffechick.com.br/lacamentos"
+        },
+        {
+          "img": "/img/uploads/banner-site.jpg",
+          "alt": "Vestidos",
+          "link": "https://griffechick.com.br/vestidos",
+          "mobile_img": ""
+        },
+        {
+          "img": "/img/uploads/conjuntos.jpg",
+          "alt": "Conjuntos",
+          "link": "https://griffechick.com.br/conjuntos"
         }
       ]
     },
     {
       "type": "info-bar",
-      "enabled": true
+      "enabled": false
     },
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": null,
-      "sort": "offers",
-      "title": "",
-      "headless": false,
-      "limit": 12,
-      "page": 1
+      "title": "LANÇAMENTOS ",
+      "sort": "views",
+      "collection_id": "648c9d945e606903703c671d:categories:Vestidos:/vestidos"
     },
     {
-      "type": "page-title",
-      "title": "Loja demo da E-Com Plus",
-      "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "648c9d9b5e606903703c6730:categories:Saias:/saias",
+      "sort": "news",
+      "title": "LANÇAMENTOS DE SAIAS"
     }
   ]
 }

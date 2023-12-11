@@ -2,5 +2,19 @@
   "title": "Formas de pagamento",
   "meta_title": "Formas de pagamento",
   "meta_description": "Formas de pagamento",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "<!--StartFragment-->\n\n**Cartões de Crédito**\\\nT﻿rabalhamos com todos os cartões de crédito utilizando o sistema Mercado Pago, uma empresa que trás segurança para você ao processar sua compra.\n\n**Parcelamento**\\\nParcelamos todas as suas compras em até 5X sem juros.\n\n**Boleto Bancário**Não tem cartão de crédito? Você tem a opção de pagar através de Boleto Bancário. Processaremos o pedido, após confirmação do pagamento do boleto.\n\n<!--EndFragment-->",
+  "sections": [
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "title": "ESCOLHA O SEU LOOK EM 6X SEM JUROS!"
+    }
+  ]
 }
