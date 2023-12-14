@@ -11,6 +11,7 @@
   },
   "categories_list": {
     "featured": [
+      "/lancamentos?LANÇAMENTOS",
       "/vestidos?VESTIDOS"
     ],
     "random": 10,
